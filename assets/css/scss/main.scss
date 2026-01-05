@@ -136,6 +136,37 @@ table tfoot td {
   clear: both;
 }
 
+/* === Image Size Utilities === */
+.img-small {
+  max-width: 40%;
+  margin: 1.5rem auto;
+}
+
+.img-medium {
+  max-width: 60%;
+  margin: 2rem auto;
+}
+
+.img-large {
+  max-width: 80%;
+  margin: 2.5rem auto;
+}
+
+.img-full {
+  max-width: 100%;
+  margin: 3rem auto;
+}
+
+/* === Mobile Overrides === */
+@media (max-width: 768px) {
+  .img-small,
+  .img-medium,
+  .img-large {
+    max-width: 100%;
+    margin: 1.5rem auto;
+  }
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';
 
