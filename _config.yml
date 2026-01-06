@@ -7,14 +7,14 @@ url: "http://cristianomcunha.com" # the base hostname & protocol for your site, 
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Cristiano Cunha # add your name
-author-img: cristiano-cunha.jpg # add your photo
-about-author: I am a tester that loves automation. Always hungry to keep learning. # add description
-social-twitter: melioth # add your Twitter handle
-social-facebook: cristiano.morais.cunha # add your Facebook handle
-social-github: cmcunha # add your Github handle
-social-linkedin: cristianomcunha# add your Linkedin handle
-social-email: cristianocunhablog@gmail.com# add your Email address
+author: Cristiano Cunha 
+author-img: cristiano-cunha.jpg 
+about-author: I am a tester that loves automation. Always hungry to keep learning. 
+social-twitter: melioth 
+social-facebook: cristiano.morais.cunha 
+social-github: cmcunha
+social-linkedin: cristianomcunha
+social-email: cristianocunhablog@gmail.com
 
 # Disqus
 discus-identifier: cristianomcunha-com # add your discus identifier
